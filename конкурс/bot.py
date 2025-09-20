@@ -8,7 +8,7 @@ from aiogram.fsm.context import FSMContext
 from deep_translator import GoogleTranslator
 import random
 
-TOKEN = "8401955026:AAFsdWHwIJl-Eee7DEj1KjJMlXCwsMGdP4w"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
